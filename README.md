@@ -1,1 +1,1 @@
-# mini-sessions
+# Subzero Mini Bot.
