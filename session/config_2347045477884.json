@@ -16,7 +16,7 @@
     "🧫",
     "🐭"
   ],
-  "ANTI_DELETE": "false",
+  "ANTI_DELETE": "true",
   "PREFIX": ".",
   "MAX_RETRIES": 3,
   "GROUP_INVITE_LINK": "https://chat.whatsapp.com/C71TYAGBxak4PkTUDq8puy",
