@@ -1,0 +1,30 @@
+{
+  "AUTO_VIEW_STATUS": "true",
+  "AUTO_LIKE_STATUS": "true",
+  "AUTO_REACT": "true",
+  "AUTO_RECORDING": "false",
+  "ANTICALL": "true",
+  "AUTO_LIKE_EMOJI": [
+    "💋",
+    "🍬",
+    "🫆",
+    "💗",
+    "🎈",
+    "🎉",
+    "🥳",
+    "❤️",
+    "🧫",
+    "🐭"
+  ],
+  "ANTI_DELETE": "false",
+  "PREFIX": ".",
+  "MAX_RETRIES": 3,
+  "GROUP_INVITE_LINK": "https://chat.whatsapp.com/C71TYAGBxak4PkTUDq8puy",
+  "ADMIN_LIST_PATH": "./admin.json",
+  "RCD_IMAGE_PATH": "https://mrfrankk-cdn.hf.space/mrfrank/mini/menu.png",
+  "NEWSLETTER_JID": "120363304325601080@newsletter",
+  "NEWSLETTER_MESSAGE_ID": "4539",
+  "OTP_EXPIRY": 300000,
+  "OWNER_NUMBER": "263719064805",
+  "CHANNEL_LINK": "https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"
+}
